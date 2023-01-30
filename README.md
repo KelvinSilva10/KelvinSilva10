@@ -1,7 +1,9 @@
 <h1>Olá, eu sou o Kelvin Silva 👋</h1>
 
-<h3>🔭 Estou a procura de uma vaga como dev web front-end !</h2>
-<h3>🌱 Atualmente estou estudando backend !</h2>
+<h3>🔭 Estou a procura de uma vaga como dev web front-end ou back-end !</h2>
+<h3>🌱 Atualmente estou estudando backend com Python !</h2>
+
+<h2>Meu portfólio: https://my-portfolio-kappa-jade.vercel.app/#home</h2>
 
 
 
